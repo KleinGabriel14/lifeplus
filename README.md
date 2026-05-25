@@ -1,4 +1,4 @@
-# LIFE - PLUSS
+# LIFE PLUS
 
 Projeto de modelagem de banco de dados desenvolvido para gerenciamento da Casa Lar / Casa de Idosos.
 
