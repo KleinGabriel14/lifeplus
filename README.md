@@ -1,10 +1,10 @@
 # LIFE PLUS
 
-Projeto de modelagem de banco de dados desenvolvido para gerenciamento da Casa Lar / Casa de Idosos.
+Projeto de modelagem de banco de dados desenvolvido para gerenciamento de uma Casa Lar / Casa de Idosos.
 
 ---
 
-# Objetivo
+## Objetivo
 
 O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerenciar informações relacionadas a:
 
@@ -17,7 +17,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ---
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - PostgreSQL
 - SQL
@@ -26,17 +26,21 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ---
 
-# Arquivos do Projeto
+## Arquivos do Projeto
 
 | Arquivo | Descrição |
 |---|---|
-| casa_lar01.vpp | Modelo inicial |
-| casa_lar02.vpp | Ajustes e melhorias |
-| casa_lar03.vpp | Ajustes e melhorias |
+| LifePlus_Final.vpp | Versão final do projeto |
+
+### Versões Antigas
+
+- casa_lar01.vpp → Modelo inicial
+- casa_lar02.vpp → Ajustes e melhorias
+- casa_lar03.vpp → Últimos ajustes
 
 ---
 
-# Integrantes
+## Integrantes
 
 - Gabriel Becker
 - Gabriel Klein
@@ -45,7 +49,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ---
 
-# Conceitos Utilizados
+## Conceitos Utilizados
 
 - Modelagem Entidade-Relacionamento
 - DDL
@@ -56,12 +60,12 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ---
 
-# Status do Projeto
+## Status do Projeto
 
  Em desenvolvimento
 
 ---
 
-# Instituição
+## Instituição
 
 UNOESC - Universidade do Oeste de Santa Catarina
