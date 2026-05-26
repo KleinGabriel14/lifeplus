@@ -34,9 +34,9 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ### Versões Antigas
 
-- casa_lar01.vpp → Modelo inicial
-- casa_lar02.vpp → Ajustes e melhorias
-- casa_lar03.vpp → Últimos ajustes
+- lifeplus01.vpp → Modelo inicial
+- lifeplus02.vpp → Ajustes e melhorias
+- lifeplus03.vpp → Últimos ajustes
 
 ---
 
