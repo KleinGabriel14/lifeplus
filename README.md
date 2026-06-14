@@ -50,7 +50,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 ---
 ## Diagrama Entidade Relacionamento 
 
-![Diagrama ER](Docs/Diagrama-lifePlus.png)
+![Diagrama ER](docs/Diagrama-lifePlus.png)
 
 ---
 ## Conceitos Utilizados
