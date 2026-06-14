@@ -42,7 +42,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ## Integrantes
 
-- Gabriel Becker
+- Gabriel Leonir Becker
 - Gabriel Henrique Klein
 - Guilherme Removicz
 - Pedro Henrique Belloli
