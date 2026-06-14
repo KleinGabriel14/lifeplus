@@ -48,7 +48,11 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 - Pedro Henrique Belloli
 
 ---
+## Diagrama Entidade Relacionamento 
 
+![Diagrama ER](Docs/Diagrama - lifePlus.png)
+
+---
 ## Conceitos Utilizados
 
 - Modelagem Entidade-Relacionamento
