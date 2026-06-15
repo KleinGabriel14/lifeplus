@@ -41,13 +41,36 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 ---
 
 ## Desenvolvedores
-| Integrante | Matrícula |
-|---|---|
-| 👨‍💻 Gabriel Leonir Becker |  |
-| 👨‍💻 Gabriel Henrique Klein | 449952 |
-| 👨‍💻 Guilherme Removicz |  |
-| 👨‍💻 Pedro Henrique Belloli |  |
+## Desenvolvedores
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=GabrielBecker" width="80px"><br>
+      <b>Gabriel Leonir Becker</b><br>
+      Matrícula:<br>
+      000000
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=GabrielKlein" width="80px"><br>
+      <b>Gabriel Henrique Klein</b><br>
+      Matrícula:<br>
+      449952
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=GuilhermeRemovicz" width="80px"><br>
+      <b>Guilherme Removicz</b><br>
+      Matrícula:<br>
+      000000
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=PedroBelloli" width="80px"><br>
+      <b>Pedro Henrique Belloli</b><br>
+      Matrícula:<br>
+      000000
+    </td>
+  </tr>
+</table>
 ---
 ## Diagrama Entidade Relacionamento 
 
