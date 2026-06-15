@@ -175,7 +175,7 @@ RESTART IDENTITY CASCADE;
 
 Depois disso, execute novamente o arquivo `inserts.sql`.
 
-## Diagrama Entidade Relacionamento
+## Diagrama Entidade-Relacionamento
 
 ![Diagrama ER](img/diagrama-er.png)
 
