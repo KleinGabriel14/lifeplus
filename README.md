@@ -97,12 +97,14 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ## Arquivos do Projeto
 
-| Arquivo                | Descrição                         |
-| ---------------------- | --------------------------------- |
-| `LifePlus_Final.vpp`   | Versão final do projeto           |
-| `02_create_tables.sql` | Criação das tabelas e constraints |
-| `03_indexes.sql`       | Criação dos índices               |
-| `inserts.sql`          | Inserção dos dados de teste       |
+| Arquivo                  | Descrição                         |
+| ----------------------   | --------------------------------- |
+| `LifePlus_Final.vpp`     | Versão final do projeto           |
+| `01_create_database.sql` | Criação do banco de dados         |
+| `02_create_tables.sql`   | Criação das tabelas e constraints |
+| `03_indexes.sql`         | Criação dos índices               |
+| `04_dados_exemplo.sql`   | Inserção dos dados de teste       |
+| `05_consultas.sql`       | Relatórios                        |
 
 ## Versões Antigas
 
@@ -111,6 +113,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 | `lifeplus01.vpp` | Modelo inicial      |
 | `lifeplus02.vpp` | Ajustes e melhorias |
 | `lifeplus03.vpp` | Últimos ajustes     |
+|  LifePlus_04.vpp | Ajustes             |
 
 ## Como usar o projeto
 
