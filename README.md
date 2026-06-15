@@ -41,7 +41,6 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 ---
 
 ## Desenvolvedores
-## Desenvolvedores
 
 <table>
   <tr>
