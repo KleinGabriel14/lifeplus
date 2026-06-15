@@ -177,6 +177,7 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
 
 ## Diagrama Entidade-Relacionamento
 
+```mermaid
 erDiagram
     %% --- RELACIONAMENTOS ---
 
@@ -331,6 +332,7 @@ erDiagram
         int4 id_idoso FK
         int4 id_funcionario FK
     }
+
 
 
 ## Conceitos Utilizados
