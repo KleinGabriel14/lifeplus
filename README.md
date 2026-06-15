@@ -209,7 +209,7 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
     </td>
     <td align="center">
       <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=GuiTechMan" width="80px"><br>
-      <b>Guilherme Removicz</b><br>
+      <b>Guilherme Vieira Removicz</b><br>
       Matrícula:<br>
       420951
     </td>
