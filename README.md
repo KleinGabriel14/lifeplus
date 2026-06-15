@@ -40,12 +40,13 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ---
 
-## Integrantes
-
-- Gabriel Leonir Becker
-- Gabriel Henrique Klein
-- Guilherme Removicz
-- Pedro Henrique Belloli
+## Desenvolvedores
+| Integrante | Matrícula |
+|---|---|
+| 👨‍💻 Gabriel Leonir Becker |  |
+| 👨‍💻 Gabriel Henrique Klein | 449952 |
+| 👨‍💻 Guilherme Removicz |  |
+| 👨‍💻 Pedro Henrique Belloli |  |
 
 ---
 ## Diagrama Entidade Relacionamento 
