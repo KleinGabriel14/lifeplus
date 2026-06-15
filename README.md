@@ -57,7 +57,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
       449952
     </td>
     <td align="center">
-     <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Guilherme123" width="80px">
+     <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Removicz" width="80px"><br>
       <b>Guilherme Removicz</b><br>
       Matrícula:<br>
       000000
