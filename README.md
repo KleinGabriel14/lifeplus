@@ -207,13 +207,13 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
       <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=GuiTechMan" width="80px"><br>
       <b>Guilherme Removicz</b><br>
       Matrícula:<br>
-      000000
+      420951
     </td>
     <td align="center">
       <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=PedroCode" width="80px"><br>
       <b>Pedro Henrique Belloli</b><br>
       Matrícula:<br>
-      000000
+      442564
     </td>
   </tr>
 </table>
