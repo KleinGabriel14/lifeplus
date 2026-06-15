@@ -177,7 +177,7 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
 
 ## Diagrama Entidade-Relacionamento
 
-![Diagrama ER](Diagrama-lifePlus.png)
+![Diagrama ER]([Diagrama-lifePlus.png](https://github.com/KleinGabriel14/lifeplus/blob/main/docs/DiagramaEntidade-Relacionamento.md))
 
 ## Conceitos Utilizados
 
