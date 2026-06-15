@@ -131,9 +131,11 @@ Antes de executar o projeto, é necessário ter instalado:
 Os scripts devem ser executados na seguinte ordem:
 
 ```text
-1. 02_create_tables.sql
-2. 03_indexes.sql
-3. inserts.sql
+1. 01_create_database.sql
+2. 02_create_tables.sql
+3. 03_indexes.sql
+4. 04_dados_exemplo.sql
+5. 05_consultas.sql
 ```
 
 ### Executando no DBeaver
@@ -141,12 +143,16 @@ Os scripts devem ser executados na seguinte ordem:
 1. Abra o DBeaver.
 2. Crie uma conexão com o PostgreSQL.
 3. Crie ou selecione o banco de dados do projeto.
-4. Abra o arquivo `02_create_tables.sql`.
-5. Execute o script para criar as tabelas e constraints.
-6. Abra o arquivo `03_indexes.sql`.
-7. Execute o script para criar os índices.
-8. Abra o arquivo `inserts.sql`.
-9. Execute o script para inserir os dados de teste.
+4. Abra o arquivo `01_create_database.sql`.
+5. Execute o script para criar o banco de dados.
+6. Abra o arquivo `02_create_tables.sql`.
+7. Execute o script para criar as tabelas e constraints.
+8. Abra o arquivo `03_indexes.sql`.
+9. Execute o script para criar os índices.
+10. Abra o arquivo `04_dados_exemplo.sql`.
+11. Execute o script para inserir os dados de teste.
+12. Abra o arquivo `05_consultas.sql`.
+13. Execute o script para gerar os relatórios. 
 
 ### Observação importante
 
