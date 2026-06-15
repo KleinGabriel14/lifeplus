@@ -177,7 +177,7 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
 
 ## Diagrama Entidade-Relacionamento
 
-![Diagrama ER](img/diagrama-er.png)
+![Diagrama ER](Diagrama-lifePlus.png)
 
 ## Conceitos Utilizados
 
@@ -198,7 +198,7 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
       <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=BeckerDev" width="80px"><br>
       <b>Gabriel Leonir Becker</b><br>
       Matrícula:<br>
-      000000
+      446411
     </td>
     <td align="center">
       <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=GabrielKleinDev" width="80px"><br>
