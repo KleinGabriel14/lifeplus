@@ -95,6 +95,25 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 * DBeaver
 * GitHub
 
+## Estrutura do repositório
+lifeplus/
+├── docs/
+│   ├── Diagrama-lifePlus.png    # Modelo do paradigma 
+│   ├── DiagramaEntidade-Relacionamento.md   # Modelo logico com cardinalidades e normalizacao
+│   └── dicionario-de-dados.md  # Dicionario de dados completo 
+└── sql/
+│   ├── 01_create_database.sql   # Criacao do banco de dados
+│   ├── 02_create_tables.sql     # Tabelas e constraints (PK, FK, UK, CHECK, DEFAULT)
+│   ├── 03_indexes.sql           # Indices para otimizacao de consultas
+│   ├── 04_dados_exemplo.sql     # Dados de exemplo para testes
+│   └── 05_consultas.sql         # 8 relatorios gerenciais
+└── versoes-antigas/
+    ├─ LifePlus_04.vpp
+    ├─ brimprimirteste.pdf
+    ├─ lifeplus01.vpp
+    ├─ lifeplus02.vpp
+    └── lifeplus03.vpp
+    
 ## Arquivos do Projeto
 
 | Arquivo                  | Descrição                         |
