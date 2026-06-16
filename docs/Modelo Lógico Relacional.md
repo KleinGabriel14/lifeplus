@@ -4,6 +4,8 @@
 
 ## Normalização
 
+O modelo esta na Terceira Forma Normal (3FN):
+
 1FN: todos os atributos sao atomicos; nao ha grupos repetitivos. As informacoes foram separadas em campos especificos, como rua, numero, bairro, cidade, telefone, cpf, dosagem, validade, pressao, temperatura e saturacao.
 
 2FN: todas as tabelas possuem chave primaria simples, como id_pessoa, id_idoso, id_funcionario, id_medicamento, id_estoque, id_prescricao, id_checkin e id_consulta. Assim, os atributos dependem diretamente da chave primaria de cada tabela, eliminando dependencias parciais.
