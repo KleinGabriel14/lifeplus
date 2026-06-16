@@ -1,0 +1,7 @@
+## Normalizacao
+
+1FN: todos os atributos sao atomicos; nao ha grupos repetitivos. As informacoes foram separadas em campos especificos, como rua, numero, bairro, cidade, telefone, cpf, dosagem, validade, pressao, temperatura e saturacao.
+
+2FN: todas as tabelas possuem chave primaria simples, como id_pessoa, id_idoso, id_funcionario, id_medicamento, id_estoque, id_prescricao, id_checkin e id_consulta. Assim, os atributos dependem diretamente da chave primaria de cada tabela, eliminando dependencias parciais.
+
+3FN: as dependencias transitivas foram reduzidas com a separacao das informacoes em tabelas proprias. Os dados de endereco foram isolados na tabela endereco; os dados pessoais foram centralizados em pessoa; as especialidades foram separadas em especialidade; os medicamentos foram separados de estoque e prescricao; e os registros de atendimento, como checkin, consulta, movimentacao e prescricao, foram organizados em tabelas independentes.
