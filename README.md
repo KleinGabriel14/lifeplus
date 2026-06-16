@@ -100,7 +100,6 @@ modelo logico relacional com justificativas de normalizacao esta em:  (https://g
 * GitHub
 
 ## Estrutura do repositório
-## Estrutura do repositório
 
 ```text
 lifeplus/
