@@ -88,7 +88,7 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 link para acessar o modelo logico relacional  https://dbdiagram.io/d/6a308d215c789b8acb8ded25 
 
-modelo logico relacional com justificativas de normalizacao esta em:  https://github.com/KleinGabriel14/lifeplus/blob/6e43f2cc62c51cce1cbb12633537d2abe7010425/docs/imagem%20modelo%20logico.png 
+modelo logico relacional com justificativas de normalizacao esta em:  (https://github.com/KleinGabriel14/lifeplus/blob/4cb5f7bfdffc94aefcb1bd62f2d9dcec38c24c54/docs/Modelo%20L%C3%B3gico%20Relacional.md)
 
 
 ## Tecnologias Utilizadas
