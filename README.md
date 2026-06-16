@@ -96,23 +96,29 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 * GitHub
 
 ## Estrutura do repositório
+## Estrutura do repositório
+
+```text
 lifeplus/
 ├── docs/
-│   ├── Diagrama-lifePlus.png    # Modelo do paradigma 
-│   ├── DiagramaEntidade-Relacionamento.md   # Modelo logico com cardinalidades e normalizacao
-│   └── dicionario-de-dados.md  # Dicionario de dados completo 
-└── sql/
-│   ├── 01_create_database.sql   # Criacao do banco de dados
-│   ├── 02_create_tables.sql     # Tabelas e constraints (PK, FK, UK, CHECK, DEFAULT)
-│   ├── 03_indexes.sql           # Indices para otimizacao de consultas
-│   ├── 04_dados_exemplo.sql     # Dados de exemplo para testes
-│   └── 05_consultas.sql         # 8 relatorios gerenciais
+│   ├── Diagrama-lifePlus.png                  # Modelo do Visual Paradigm
+│   ├── DiagramaEntidade-Relacionamento.md     # Modelo lógico com cardinalidades e normalização
+│   └── dicionario-de-dados.md                 # Dicionário de dados completo
+│
+├── sql/
+│   ├── 01_create_database.sql                 # Criação do banco de dados
+│   ├── 02_create_tables.sql                   # Tabelas e constraints (PK, FK, UK, CHECK, DEFAULT)
+│   ├── 03_indexes.sql                         # Índices para otimização de consultas
+│   ├── 04_dados_exemplo.sql                   # Dados de exemplo para testes
+│   └── 05_consultas.sql                       # Relatórios gerenciais
+│
 └── versoes-antigas/
-    ├─ LifePlus_04.vpp
-    ├─ brimprimirteste.pdf
-    ├─ lifeplus01.vpp
-    ├─ lifeplus02.vpp
+    ├── LifePlus_04.vpp
+    ├── brimprimirteste.pdf
+    ├── lifeplus01.vpp
+    ├── lifeplus02.vpp
     └── lifeplus03.vpp
+```
     
 ## Arquivos do Projeto
 
