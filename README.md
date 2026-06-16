@@ -84,7 +84,8 @@ O objetivo do projeto é criar uma estrutura de banco de dados capaz de gerencia
 
 ## Diagrama Entidade-Relacionaento 
 
-[teste03.pdf](https://github.com/user-attachments/files/28979498/teste03.pdf)
+<img width="2103" height="1723" alt="testepng" src="https://github.com/user-attachments/assets/f977d790-4671-4e7a-b01f-506d715f14a4" />
+
 
 
 
