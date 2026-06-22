@@ -261,7 +261,7 @@ Depois disso, execute novamente o arquivo `inserts.sql`.
 
 ## Status do Projeto
 
-Em desenvolvimento.
+Finalizado...
 
 ## Instituição
 
